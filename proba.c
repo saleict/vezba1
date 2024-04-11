@@ -10,6 +10,7 @@ int main() {
 
 
   printf("Zdravo svete");
+  printf("SALESEDLAR");
   return 0
 
 }
